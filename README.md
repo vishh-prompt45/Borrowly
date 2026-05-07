@@ -1,4 +1,4 @@
-# 📚 Borrowly — Smart IoT Library Management System
+# Borrowly — Smart IoT Library Management System
 
 Borrowly is a Smart IoT-based Library Management System built using ESP32-S3, RFID technology, React.js, Node.js, Express.js, and MySQL.
 
@@ -6,7 +6,7 @@ The system allows students to issue and return books using RFID-based identity v
 
 ---
 
-## 🚀 Features
+## Features
 
 - RFID-based student authentication
 - Book issue system
@@ -21,7 +21,7 @@ The system allows students to issue and return books using RFID-based identity v
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - React.js
@@ -44,7 +44,7 @@ The system allows students to issue and return books using RFID-based identity v
 
 ---
 
-## 📡 Hardware Workflow
+## Hardware Workflow
 
 1. Student taps RFID card
 2. ESP32-S3 reads RFID UID
@@ -56,7 +56,7 @@ The system allows students to issue and return books using RFID-based identity v
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```plaintext
 Borrowly/
@@ -67,7 +67,7 @@ Borrowly/
 └── README.md
 ```
 
-## ▶️ Run Frontend
+## Run Frontend
 
 ```bash
 cd frontend
@@ -75,7 +75,7 @@ npm install
 npm start
 ```
 
-## ▶️ Run Backend
+## Run Backend
 
 ```bash
 cd backend
