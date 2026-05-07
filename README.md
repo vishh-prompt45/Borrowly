@@ -65,6 +65,7 @@ Borrowly/
 ├── backend/       # Node.js backend
 ├── hardware/      # Arduino/ESP32 RFID code
 └── README.md
+```
 
 ## ▶️ Run Frontend
 
